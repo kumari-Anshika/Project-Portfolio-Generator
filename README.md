@@ -65,27 +65,6 @@ npm run build
 npm run start
 ```
 
-## GitHub upload
-
-Create a new repository on GitHub named `portfolio-generator`.
-
-Then run these commands from the project folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial portfolio generator project"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/portfolio-generator.git
-git push -u origin main
-```
-
-Replace `YOUR_USERNAME` with your GitHub username.
-
-## Important
-
-The current application converts Markdown and previews it in the browser. It does not automatically create GitHub repositories or push generated websites through the GitHub API. That functionality requires GitHub authentication/OAuth and API integration and can be added as a later feature.
-
 ## Project structure
 
 ```text
