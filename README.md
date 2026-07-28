@@ -2,7 +2,7 @@
 
 A Next.js application that converts Markdown resume/portfolio content into a customizable live portfolio preview.
 
-![Uploading ss.jpeg…]()
+<img width="1536" height="1024" alt="ss" src="https://github.com/user-attachments/assets/01d6cad3-aace-4584-be6c-c92cf4895e3b" />
 
 
 ## Features
