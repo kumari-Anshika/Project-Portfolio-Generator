@@ -1,0 +1,50 @@
+.theme-light {
+  background: #f8fafc;
+  color: #111827;
+}
+
+.theme-light .panel {
+  border-color: #e2e8f0;
+}
+
+.theme-dark {
+  background: #111827;
+  color: #f9fafb;
+}
+
+.theme-dark .panel {
+  background: #1f2937;
+  border-color: #374151;
+}
+
+.theme-dark .editor {
+  background: #111827;
+  color: #f9fafb;
+  border-color: #4b5563;
+}
+
+.theme-dark .preview {
+  background: #111827;
+  color: #f9fafb;
+  border-color: #374151;
+}
+
+.theme-dark button,
+.theme-dark label {
+  background: #1f2937;
+  color: #f9fafb;
+  border-color: #4b5563;
+}
+
+.theme-blue {
+  background: #eff6ff;
+  color: #172554;
+}
+
+.theme-blue .panel {
+  border-color: #bfdbfe;
+}
+
+.theme-blue .preview {
+  background: #ffffff;
+}
